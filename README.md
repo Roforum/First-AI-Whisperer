@@ -98,7 +98,7 @@ Maintaining this level of interaction, experimentation, and insight takes enormo
 
 If you believe in this vision, consider supporting:
 
-👉 [**Donate via Stripe**]([https://your-stripe-donation-link.com](https://donate.stripe.com/00wcN62zKc5ceXeg7X3ZK00))
+👉 [**Donate via Stripe**](https://donate.stripe.com/00wcN62zKc5ceXeg7X3ZK00)
 
 ---
 
